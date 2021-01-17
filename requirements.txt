@@ -1,0 +1,6 @@
+jupyter
+jupyter-tabnine
+pyreadline
+py4j
+findspark
+pyspark
